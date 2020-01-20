@@ -1,5 +1,7 @@
 # Snake Clock
 
+[![Snake Clock Screenshot](Screenshot.png)](Video.mp4)
+
 This is an original and fun clock face where a snake lives its day along yours.
 It’s my first ever Flutter app!
 
