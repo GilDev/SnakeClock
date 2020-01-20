@@ -19,6 +19,13 @@ The snake’s color changes with the current season: blue for winter, green for 
 
 The snake eats an apple at 9:30, 13:30 and 19:30, each of a different color because he doesn’t like routine.
 
+## How to run it?
+
+1. Clone the repo.
+2. Go into the [`snake_clock`](snake_clock) folder.
+3. Run `flutter run`.
+4. Enjoy!
+
 
 ## What could be improved
 
