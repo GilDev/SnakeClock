@@ -143,7 +143,7 @@ class _SnakeClockState extends State<SnakeClock> {
     final colors = Theme.of(context).brightness == Brightness.light
         ? _lightTheme
         : _darkTheme;
-_dateTime = DateTime(2019, 1, 19, 13, 22, 32);
+
     // Set snake’s body color depending on the current season
     if (_dateTime.month >= seasons[_Season.winter].month ||
         _dateTime.month < seasons[_Season.spring].month) {
